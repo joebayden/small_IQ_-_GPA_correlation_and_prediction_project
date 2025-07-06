@@ -57,5 +57,5 @@ This project is for educational purposes only. The dataset is small and limited 
 
 ---
 
-**Author:** [Your Name]  
+**Author:** Nazarov Islom
 **License:** MIT
